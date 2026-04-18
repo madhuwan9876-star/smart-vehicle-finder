@@ -1,0 +1,24 @@
+{
+  "overview": "Smart Vehicle Finder is a 3-page interactive vehicle recommendation app for the Indian market. Users can find the perfect car, bike, or truck using smart filters, browse a full catalog of 400+ vehicles, and locate authorized dealers across India.",
+  "features": [
+    "Smart finder with budget, fuel, transmission, usage, and mileage filters",
+    "400+ vehicle catalog (150+ cars, 100+ bikes, 80+ trucks)",
+    "Vehicle comparison tool (side-by-side)",
+    "Favorites with localStorage persistence",
+    "Dark and light mode toggle",
+    "Buy from Dealer button on every vehicle card",
+    "23 authorized dealers across India with search and filters",
+    "Responsive design for mobile and desktop"
+  ],
+  "category": "automotive",
+  "tags": [
+    "vehicle-finder",
+    "cars",
+    "bikes",
+    "trucks",
+    "india",
+    "automotive",
+    "dealer-locator"
+  ],
+  "last_updated": "2026-04-18T12:45:11.745Z"
+}
